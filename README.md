@@ -1,4 +1,4 @@
-# Word Search
+# Wordly
 
 ## A simple dictionary webapp using the free dictionary api
 
@@ -7,4 +7,4 @@
 
 ### Functionalities I want to add: A voice search option.
 
-### Link: https://kkelizzz.github.io/ME-internship-project/
+### Link: https://kkelizzz.github.io/wordly-dictionary-app/
